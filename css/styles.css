@@ -1,5 +1,6 @@
 h1 {
   color: blue;
+  text-align: center;
 
 }
 
@@ -34,6 +35,6 @@ p {
 }
 
 h6 {
-  font-size: 5em;
+  font-size: 4em;
   color: red
 }
