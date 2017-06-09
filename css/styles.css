@@ -1,4 +1,39 @@
 h1 {
   color: blue;
+
+}
+
+body {
+  margin:0;
+}
+
+.container {
+  display: flex;
+  min-height:100px;
+  margin: 2em;
+}
+
+.sidebar {
+  width: 180px;
+  position: relative;
+  left: 0;
+  background-color: #ccc;
+  transition: all .25s;
+  float: left; //does not want to float left//
+}
+
+.first {
+  color: blue;
+
+}
+
+p {
+  font-size: 3em;
+  color: black;
+
+}
+
+h6 {
   font-size: 5em;
+  color: red
 }
